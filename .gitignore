@@ -1,3 +1,6 @@
+# Data sets
+business-licences.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
